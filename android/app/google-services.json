@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729403597638",
+    "project_id": "fluttering-25977",
+    "storage_bucket": "fluttering-25977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729403597638:android:9fa47317c6ecf90f8c3b47",
+        "android_client_info": {
+          "package_name": "com.example.firebase_google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729403597638-gf1q5kmdlr59blvrvsvomt554vmrbvfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQzPBBt5GynH6lEk_aKZyYB_wH6JojqEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729403597638-gf1q5kmdlr59blvrvsvomt554vmrbvfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
